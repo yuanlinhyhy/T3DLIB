@@ -1,0 +1,16 @@
+﻿生成启动时间为 2017/4/12 10:44:59。
+     1>项目“D:\workspace\T3DLIB\T3DConsole\T3DConsole\T3DConsole.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\workspace\T3DLIB\SDL\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp T3DLIB1.cpp
+         T3DLIB1.cpp
+         main.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\workspace\T3DLIB\T3DConsole\Debug\T3DConsole.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\workspace\T3DLIB\SDL\lib\x86 SDL2.lib SDL2main.lib SDL2test.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\workspace\T3DLIB\T3DConsole\Debug\T3DConsole.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\workspace\T3DLIB\T3DConsole\Debug\T3DConsole.lib" /MACHINE:X86 Debug\main.obj
+         Debug\T3DLIB1.obj
+         T3DConsole.vcxproj -> D:\workspace\T3DLIB\T3DConsole\Debug\T3DConsole.exe
+     1>已完成生成项目“D:\workspace\T3DLIB\T3DConsole\T3DConsole\T3DConsole.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.49

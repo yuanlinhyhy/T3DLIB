@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "T3DConsole", "T3DConsole\T3DConsole.vcxproj", "{D9943551-560F-4368-8FB1-DC6A88869E16}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DrawPixel", "DrawPixel\DrawPixel.vcxproj", "{149572D3-AEC1-4056-A5E6-A8D353CEE276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9943551-560F-4368-8FB1-DC6A88869E16}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D9943551-560F-4368-8FB1-DC6A88869E16}.Debug|Win32.Build.0 = Debug|Win32
+		{D9943551-560F-4368-8FB1-DC6A88869E16}.Release|Win32.ActiveCfg = Release|Win32
+		{D9943551-560F-4368-8FB1-DC6A88869E16}.Release|Win32.Build.0 = Release|Win32
+		{149572D3-AEC1-4056-A5E6-A8D353CEE276}.Debug|Win32.ActiveCfg = Debug|Win32
+		{149572D3-AEC1-4056-A5E6-A8D353CEE276}.Debug|Win32.Build.0 = Debug|Win32
+		{149572D3-AEC1-4056-A5E6-A8D353CEE276}.Release|Win32.ActiveCfg = Release|Win32
+		{149572D3-AEC1-4056-A5E6-A8D353CEE276}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
